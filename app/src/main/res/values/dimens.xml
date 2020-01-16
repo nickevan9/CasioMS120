@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="min_widget_width">250dp</dimen>
+    <dimen name="min_widget_height">250dp</dimen>
+
+    <dimen name="button_text_size_number">26sp</dimen>
+    <dimen name="button_text_size_ac">22sp</dimen>
+    <dimen name="button_text_action">18sp</dimen>
+    <dimen name="formula_text_size">28sp</dimen>
+    <dimen name="formula_header_size">12sp</dimen>
+    <dimen name="formula_sign">32sp</dimen>
+    <dimen name="display_text_size">40sp</dimen>
+
+    <dimen name="padding_view">8dp</dimen>
+    <dimen name="margin_view">16dp</dimen>
+</resources>
